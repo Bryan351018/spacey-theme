@@ -3,6 +3,11 @@
   "displayName": "Spacey Theme",
   "description": "A theme by Bryan351018",
   "version": "0.0.1",
+  "repository": 
+  {
+    "type": "git",
+    "url": "https://github.com/Bryan351018/spacey-theme.git"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
